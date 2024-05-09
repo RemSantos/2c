@@ -1,6 +1,6 @@
-body{
+header{
 margin: 0;
-padding: ;
+padding: 0;
 
 
  background-color: rgb(255, 174, 0);
@@ -8,18 +8,17 @@ padding: ;
  display: flex;
  justify-content: space-around;
  align-items: center;
- padding: 24px 0;
-
+ margin: 24px 0;
 
 }
 
 .cabeçalho-imagem{
     width: 50%;
-
 }
 
 .cabeçalho-imagem{
 display: inline-block;
 margin: 0 16px;
+font-size: 24px;
 
 }
