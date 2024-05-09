@@ -1,24 +1,19 @@
 header{
-margin: 0;
-padding: 0;
-
-
- background-color: rgb(255, 174, 0);
- color: rgb(8, 6, 2);
- display: flex;
- justify-content: space-around;
- align-items: center;
- margin: 24px 0;
-
+    background-color: rgb(255, 174, 0);
+    color: rgb(8, 6, 2);
+    display: flex;
 }
 
 .cabeçalho-imagem{
-    width: 50%;
+    width: 40%;
+    justify-content: space-around;
+    align-items: center;
+    margin: 24px 0
 }
 
 .cabeçalho-imagem{
 display: inline-block;
-margin: 0 16px;
-font-size: 24px;
+margin: 0 50px;
+font-size: 100px;
 
 }
