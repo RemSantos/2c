@@ -1,5 +1,5 @@
 header{
-    background-color: rgb(255, 174, 0);
+    background-color: ivory;
     color: rgb(8, 6, 2);
     display: flex;
     justify-content: space-around;
@@ -17,5 +17,20 @@ header{
 display: inline-block;
 margin: 0 50px;
 font-size: 40px;
+
+}
+
+.gokublack{
+    width: 25%;
+
+
+
+
+}
+
+
+.black{
+ background-image: linear-gradient(ivory);
+
 
 }
